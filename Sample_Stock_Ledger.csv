@@ -1,0 +1,41 @@
+﻿Movement ID,Date,SKU,Item Description,Movement Type,Qty Change (+/-),Reference,Recorded By,Category
+MOV-001,2026-10-08,SKU-001,A4 copier paper carton,Issue,-8,REF-001,Ops B,Stationery
+MOV-002,2026-10-07,SKU-001,A4 copier paper carton,Issue,-5,REF-002,Store A,Stationery
+MOV-003,2026-10-06,SKU-002,Blue ballpoint pens box,Issue,-20,REF-003,Ops A,Stationery
+MOV-004,2026-10-05,SKU-003,A4 files pack,Issue,-14,REF-004,Ops B,Stationery
+MOV-005,2026-10-04,SKU-004,Sticky notes pack,Issue,-7,REF-005,Store A,Stationery
+MOV-006,2026-10-03,SKU-005,Thermal labels roll,Issue,-5,REF-006,Ops A,Packaging
+MOV-007,2026-10-02,SKU-006,Corrugated carton medium,Issue,-20,REF-007,Ops B,Packaging
+MOV-008,2026-10-01,SKU-006,Corrugated carton medium,Receipt,15,REF-008,Store A,Packaging
+MOV-009,2026-09-30,SKU-007,Bubble wrap roll,Issue,-9,REF-009,Ops A,Packaging
+MOV-010,2026-09-29,SKU-008,Packing tape carton,Issue,-12,REF-010,Ops B,Packaging
+MOV-011,2026-09-28,SKU-008,Packing tape carton,Receipt,20,REF-011,Store A,Packaging
+MOV-012,2026-10-09,SKU-009,USB keyboard,Issue,-10,REF-012,Ops A,Office Electronics
+MOV-013,2026-10-08,SKU-010,Wireless mouse,Issue,-12,REF-013,Ops B,Office Electronics
+MOV-014,2026-10-07,SKU-011,HDMI cable,Issue,-4,REF-014,Store A,Office Electronics
+MOV-015,2026-10-06,SKU-012,USB-C adapter,Issue,-6,REF-015,Ops A,Office Electronics
+MOV-016,2026-10-05,SKU-013,Surface cleaner 5L,Issue,-9,REF-016,Ops B,Cleaning
+MOV-017,2026-10-04,SKU-014,Microfiber cloth pack,Issue,-12,REF-017,Store A,Cleaning
+MOV-018,2026-10-03,SKU-015,Garbage liner roll,Issue,-16,REF-018,Ops A,Cleaning
+MOV-019,2026-10-02,SKU-016,Handwash refill 5L,Issue,-8,REF-019,Ops B,Cleaning
+MOV-020,2026-10-01,SKU-017,Safety gloves box,Issue,-14,REF-020,Store A,Safety & PPE
+MOV-021,2026-09-30,SKU-017,Safety gloves box,Receipt,10,REF-021,Ops A,Safety & PPE
+MOV-022,2026-09-29,SKU-018,Reflective vest,Issue,-7,REF-022,Ops B,Safety & PPE
+MOV-023,2026-09-28,SKU-019,Safety goggles,Issue,-9,REF-023,Store A,Safety & PPE
+MOV-024,2026-10-09,SKU-020,First-aid refill kit,Issue,-5,REF-024,Ops A,Safety & PPE
+MOV-025,2026-10-04,SKU-001,A4 copier paper carton,Receipt,10,REF-025,Ops B,Stationery
+MOV-026,2026-10-03,SKU-002,Blue ballpoint pens box,Receipt,8,REF-026,Store A,Stationery
+MOV-027,2026-10-02,SKU-003,A4 files pack,Receipt,6,REF-027,Ops A,Stationery
+MOV-028,2026-10-01,SKU-005,Thermal labels roll,Receipt,12,REF-028,Ops B,Packaging
+MOV-029,2026-09-30,SKU-006,Corrugated carton medium,Issue,-15,REF-029,Store A,Packaging
+MOV-030,2026-10-09,SKU-008,Packing tape carton,Issue,-6,REF-030,Ops A,Packaging
+MOV-031,2026-10-08,SKU-009,USB keyboard,Receipt,4,REF-031,Ops B,Office Electronics
+MOV-032,2026-10-07,SKU-010,Wireless mouse,Receipt,6,REF-032,Store A,Office Electronics
+MOV-033,2026-10-06,SKU-013,Surface cleaner 5L,Receipt,5,REF-033,Ops A,Cleaning
+MOV-034,2026-10-05,SKU-017,Safety gloves box,Issue,-3,REF-034,Ops B,Safety & PPE
+MOV-035,2026-10-06,SKU-016,Handwash refill 5L,Issue,-1,REF-035,Ops A,Cleaning
+MOV-036,2026-10-05,SKU-017,Safety gloves box,Receipt,1,REF-036,Ops A,Safety & PPE
+MOV-037,2026-10-04,SKU-018,Reflective vest,Issue,-1,REF-037,Ops A,Safety & PPE
+MOV-038,2026-10-03,SKU-019,Safety goggles,Receipt,1,REF-038,Ops A,Safety & PPE
+MOV-039,2026-10-02,SKU-020,First-aid refill kit,Issue,-1,REF-039,Ops A,Safety & PPE
+MOV-040,2026-10-09,SKU-001,A4 copier paper carton,Receipt,1,REF-040,Ops A,Stationery
